@@ -8,6 +8,7 @@ export default defineConfig({
     ['meta', { name: 'referrer', content: 'no-referrer' }]
   ],
   title: "老赵",
+  outDir: './dist',
   description: "",
   themeConfig: {
     docFooter: {

@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: pnpm install && pnpm build
       - name: ccc
-        run: cd /home/runner/work/zxdoc.github.io/zxdoc.github.io
+        run: cd /home/runner/work/zxdoc.github.io
       - name: sss
         run: ls
       # 部署到GitHub Pages - 也就是将打包内容发布到GitHub Pages

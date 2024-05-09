@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 最新文章
-      link: /前端/flex布局/项目属性/5.独立对齐方式
+      link: /搭建博客系统/2.配置vite-press
 
 features:
   - icon: "😺"

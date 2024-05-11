@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 最新文章
-      link: /搭建博客系统/2.配置vite-press
+      link: /搭建博客系统/4.github自动部署
 
 features:
   - icon: "😺"

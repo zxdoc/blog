@@ -22,7 +22,7 @@ export default defineConfig({
       //   timeStyle: "medium",
       // },
     },
-    logo: "/像素_猫.svg",
+    logo: "/螃蟹.svg",
     // https://vitepress.dev/reference/default-theme-config
     outline: {
       label: "本页目录",

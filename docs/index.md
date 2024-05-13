@@ -3,23 +3,23 @@ layout: home
 
 hero:
   image: /logo.png
-  name: "学习笔记"
-  text: "当猫咪悄悄从门缝钻进来，你就知道它们正在密谋着什么大事情了！"
-  tagline: 不积跬步，无以至千里
+  name: "探索海洋"
+  text: "螃蟹在沙滩上悄悄探寻着大海的奥秘"
+  tagline: "海纳百川，有容乃大"
   actions:
     - theme: brand
-      text: 最新文章
-      link: /搭建博客系统/4.github自动部署
+      text: 最新发现
+      link: /探索海底世界/4.海底珊瑚群落
 
 features:
-  - icon: "😺"
-    title: "与猫为伴，心灵的港湾"
-    details: "享受与毛茸茸小伙伴相伴的温馨时光，尽情沉浸在爱与快乐中。"
-  - icon: "🐾"
-    title: "探索猫咪的世界"
-    details: "跟随猫咪的脚步，发现隐藏在他们眼中的秘密，领略生活的美好。"
-  - icon: "🐱"
-    title: "猫咪的奇妙冒险"
-    details: "与可爱的猫咪一起展开冒险之旅，畅游在无尽的惊喜与欢乐之中。"
+  - icon: "🦀"
+    title: "螃蟹的世界"
+    details: "探索螃蟹们生活的海底世界，发现它们的独特之处。"
+  - icon: "🌊"
+    title: "海洋奇观"
+    details: "发现大海中隐藏的奇妙景观，领略大自然的鬼斧神工。"
+  - icon: "🐠"
+    title: "海底冒险"
+    details: "与神秘的海洋生物一起展开探险之旅，体验无尽的惊喜与刺激。"
 
 ---

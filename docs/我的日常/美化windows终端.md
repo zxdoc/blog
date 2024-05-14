@@ -90,3 +90,8 @@ C:\Users\25701\AppData\Local\Programs\oh-my-posh\bin\oh-my-posh.exe init pwsh --
 
 ![image-20240423143125833](./image/image-20240423143125833.png)
 
+**每次找这个路径很麻烦 存一下路径**
+
+`D:\360MoveData\Users\25701\Documents\PowerShell`
+
+`C:\Users\25701\AppData\Local\Programs\oh-my-posh\themes`

@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 最新发现
-      link: /探索海底世界/4.海底珊瑚群落
+      link: /搭建博客系统/4.github自动部署.md
 
 features:
   - icon: "🦀"

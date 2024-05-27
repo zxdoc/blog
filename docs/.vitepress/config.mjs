@@ -31,7 +31,7 @@ export default defineConfig({
       provider: "local",
     },
     nav: [
-      {text:'搭建博客系统', link: "/搭建博客系统/1.安装vite-press"},
+      {text:'搭建文档系统', link: "/搭建博客系统/1.安装vite-press"},
       {
         text: "我的日常",
         items: [

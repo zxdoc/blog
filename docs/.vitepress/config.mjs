@@ -11,6 +11,7 @@ export default defineConfig({
   outDir: "../dist",
   description: "",
   themeConfig: {
+    sidebarDepth: 4,
     docFooter: {
       prev: "上一篇",
       next: "下一篇",
@@ -26,6 +27,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     outline: {
       label: "本页目录",
+      level: "deep",
     },
     search: {
       provider: "local",
@@ -169,6 +171,19 @@ export default defineConfig({
             {
               text: "Electron架构",
               link: "/前端/electron/2.Electron架构",
+            },
+          ],
+        },
+        {
+          text: "安装",
+          items: [
+            {
+              text: "electron-vite",
+              link: "/前端/electron/安装/electron-vite",
+            },
+            {
+              text: "tailwindcss",
+              link: "/前端/electron/安装/tailwindcss",
             },
           ],
         },

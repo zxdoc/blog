@@ -165,25 +165,24 @@ export default defineConfig({
           text: "开始",
           items: [
             {
-              text: "Electron由来",
+              text: "由来",
               link: "/前端/electron/1.Electron由来",
             },
             {
-              text: "Electron架构",
+              text: "架构",
               link: "/前端/electron/2.Electron架构",
             },
-          ],
-        },
-        {
-          text: "安装",
-          items: [
             {
-              text: "electron-vite",
-              link: "/前端/electron/安装/electron-vite",
+              text: "基础知识",
+              link: "/前端/electron/5.基础知识",
             },
             {
-              text: "tailwindcss",
-              link: "/前端/electron/安装/tailwindcss",
+              text: "托盘图标",
+              link: "/前端/electron/3.托盘图标",
+            },
+            {
+              text: "进程模型",
+              link: "/前端/electron/4.进程模型",
             },
           ],
         },
